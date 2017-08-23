@@ -631,99 +631,99 @@ body {
 /* --------------------------------------------------------------------------- text infos data */
 /* --------------------------------------------------------------------------- speed */
 .set-speed dl.infos dd span:after {
-  content: 'Orbit Velocity'; }
+  content: 'कक्षा वेग'; }
 
 .set-speed #sun dl.infos dd:after {
-  content: '0 km/h'; }
+  content: '0 किमी / घंटा'; }
 
 .set-speed #mercury dl.infos dd:after {
-  content: '170,503 km/h'; }
+  content: '170,503 किमी / घंटा'; }
 
 .set-speed #venus dl.infos dd:after {
-  content: '126,074 km/h'; }
+  content: '126,074 किमी / घंटा'; }
 
 .set-speed #earth dl.infos dd:after {
-  content: '107,218 km/h'; }
+  content: '107,218 किमी / घंटा'; }
 
 .set-speed #mars dl.infos dd:after {
-  content: '86,677 km/h'; }
+  content: '86,677 किमी / घंटा'; }
 
 .set-speed #jupiter dl.infos dd:after {
-  content: '47,002 km/h'; }
+  content: '47,002 किमी / घंटा'; }
 
 .set-speed #saturn dl.infos dd:after {
-  content: '34,701 km/h'; }
+  content: '34,701 किमी / घंटा'; }
 
 .set-speed #uranus dl.infos dd:after {
-  content: '24,477 km/h'; }
+  content: '24,477 किमी / घंटा'; }
 
 .set-speed #neptune dl.infos dd:after {
-  content: '19,566 km/h'; }
+  content: '19,566 किमी / घंटा'; }
 
 /* --------------------------------------------------------------------------- size */
 .set-size dl.infos dd span:after {
-  content: 'Equatorial Circumference'; }
+  content: 'भूमध्य रेखा परिधि'; }
 
 .set-size #sun dl.infos dd:after {
-  content: '4,370,005 km'; }
+  content: '4,370,005 किमी'; }
 
 .set-size #mercury dl.infos dd:after {
-  content: '15,329 km'; }
+  content: '15,329 किमी'; }
 
 .set-size #venus dl.infos dd:after {
-  content: '38,024 km'; }
+  content: '38,024 किमी'; }
 
 .set-size #earth dl.infos dd:after {
-  content: '40,030 km'; }
+  content: '40,030 किमी'; }
 
 .set-size #mars dl.infos dd:after {
-  content: '21,296 km'; }
+  content: '21,296 किमी'; }
 
 .set-size #jupiter dl.infos dd:after {
-  content: '439,263 km'; }
+  content: '439,263 किमी'; }
 
 .set-size #saturn dl.infos dd:after {
-  content: '365,882 km'; }
+  content: '365,882 किमी'; }
 
 .set-size #uranus dl.infos dd:after {
-  content: '159,354 km'; }
+  content: '159,354 किमी'; }
 
 .set-size #neptune dl.infos dd:after {
-  content: '154,704 km'; }
+  content: '154,704 किमी'; }
 
 /* --------------------------------------------------------------------------- distance */
 .set-distance dl.infos dd span:after {
-  content: 'From Sun'; }
+  content: 'सूर्य से'; }
 
 .set-distance #sun dl.infos dd span:after {
-  content: 'From Earth'; }
+  content: 'पृथ्वी से'; }
 
 .set-distance #sun dl.infos dd:after {
-  content: '149,598,262 km'; }
+  content: '149,598,262 किमी'; }
 
 .set-distance #mercury dl.infos dd:after {
-  content: '57,909,227 km'; }
+  content: '57,909,227 किमी'; }
 
 .set-distance #venus dl.infos dd:after {
-  content: '108,209,475 km'; }
+  content: '108,209,475 किमी'; }
 
 .set-distance #earth dl.infos dd:after {
-  content: '149,598,262 km'; }
+  content: '149,598,262 किमी'; }
 
 .set-distance #mars dl.infos dd:after {
-  content: '227,943,824 km'; }
+  content: '227,943,824 किमी'; }
 
 .set-distance #jupiter dl.infos dd:after {
-  content: '778,340,821 km'; }
+  content: '778,340,821 किमी'; }
 
 .set-distance #saturn dl.infos dd:after {
-  content: '1,426,666,422 km'; }
+  content: '1,426,666,422 किमी'; }
 
 .set-distance #uranus dl.infos dd:after {
-  content: '2,870,658,186 km'; }
+  content: '2,870,658,186 किमी'; }
 
 .set-distance #neptune dl.infos dd:after {
-  content: '4,498,396,441 km'; }
+  content: '4,498,396,441 किमी'; }
 
 /* --------------------------------------------------------------------------- planets starting position and lighting effect */
 /* --------------------------------------------------------------------------- mercury ; pos: Top */
